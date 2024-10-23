@@ -1,0 +1,25 @@
+=== Flicker Event Log ===
+Test started: 2024-10-23T18:47:51.440Z
+Detection threshold: 0.75
+
+[2024-10-23T18:47:58.499Z] Flicker detected by sensor 1 (value: 0.940)
+[2024-10-23T18:48:01.941Z] Flicker detected by sensor 1 (value: 1.120)
+[2024-10-23T18:48:04.978Z] Flicker detected by sensor 1 (value: 1.120)
+[2024-10-23T18:48:06.198Z] Flicker detected by sensor 1 (value: 1.120)
+[2024-10-23T18:48:08.421Z] Flicker detected by sensor 1 (value: 1.120)
+[2024-10-23T18:48:10.243Z] Flicker detected by sensor 1 (value: 1.200)
+[2024-10-23T18:48:13.483Z] Flicker detected by sensor 1 (value: 1.140)
+[2024-10-23T18:48:14.498Z] Flicker detected by sensor 1 (value: 1.180)
+[2024-10-23T18:48:15.109Z] Flicker detected by sensor 1 (value: 1.160)
+[2024-10-23T18:48:16.319Z] Flicker detected by sensor 1 (value: 1.160)
+[2024-10-23T18:48:17.331Z] Flicker detected by sensor 1 (value: 1.200)
+[2024-10-23T18:48:18.749Z] Flicker detected by sensor 1 (value: 1.220)
+[2024-10-23T18:48:21.380Z] Flicker detected by sensor 1 (value: 1.200)
+[2024-10-23T18:48:22.595Z] Flicker detected by sensor 1 (value: 1.140)
+[2024-10-23T18:48:24.216Z] Flicker detected by sensor 1 (value: 1.040)
+
+Test completed after 30.2 seconds
+Sensor 1 flicker events: 15
+Sensor 2 flicker events: 0
+Sensor 1 average rate: 0.50 events/sec
+Sensor 2 average rate: 0.00 events/sec
